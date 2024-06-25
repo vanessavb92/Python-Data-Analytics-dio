@@ -17,7 +17,7 @@ Análise e Resolução do Problema
 > Um desafio de código que precisa capturar dados e expor as string formatadas (saída desejada).
 
 > "Após receber os itens cadastrados pelo usuário, o programa deve exibir na tela a lista de itens que o personagem possui. A saída deve ter o seguinte formato:"
-
+![diagrama](img/diagrama.png)
 Lista de itens:
 
 - [item1]
